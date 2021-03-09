@@ -1,0 +1,21 @@
+body {
+    background-image: URL(../img/thumbnail.jpg);
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(96, 96, 96, 0.6);
+}
+
+nav ul li {
+    float: right;
+    display: inline-block;
+    word-spacing: 30px;
+    position: relative;
+    bottom: 20px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #eee;
+    padding: 30px;
+}
